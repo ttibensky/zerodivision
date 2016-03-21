@@ -1,0 +1,17 @@
+body {
+    background-color: #f3f9fe;
+    font-family: 'Roboto', sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+.absolute-center {
+    text-align: left;
+    display: inline-block;
+}
+
+.page-header {
+    text-align: center;
+}
